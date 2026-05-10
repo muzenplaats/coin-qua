@@ -1,0 +1,50 @@
+[
+  {
+    "name": "乾",
+    "code": "111",
+    "codeNumber": 7,
+    "xiang": "天"
+  },
+  {
+    "name": "兌",
+    "code": "110",
+    "codeNumber": 6,
+    "xiang": "澤"
+  },
+  {
+    "name": "離",
+    "code": "101",
+    "codeNumber": 5,
+    "xiang": "火"
+  },
+  {
+    "name": "震",
+    "code": "100",
+    "codeNumber": 4,
+    "xiang": "雷"
+  },
+  {
+    "name": "巽",
+    "code": "011",
+    "codeNumber": 3,
+    "xiang": "風"
+  },
+  {
+    "name": "坎",
+    "code": "010",
+    "codeNumber": 2,
+    "xiang": "水"
+  },
+  {
+    "name": "艮",
+    "code": "001",
+    "codeNumber": 1,
+    "xiang": "山"
+  },
+  {
+    "name": "坤",
+    "code": "000",
+    "codeNumber": 0,
+    "xiang": "地"
+  }
+]
